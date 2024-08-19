@@ -1,0 +1,5 @@
+{
+    "azureFunctions.deploySubpath": "todo-app\\backend\\AzureFunctions",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4"
+}

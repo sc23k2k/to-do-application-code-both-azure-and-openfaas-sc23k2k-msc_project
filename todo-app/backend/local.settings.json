@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "COSMOS_ENDPOINT": "https://mycosmosdb072.documents.azure.com:443/",
+      "COSMOS_KEY": "your-cosmos-db-primary-key",
+      "COSMOS_DATABASE_ID": "TodoDB",
+      "COSMOS_CONTAINER_ID": "TodoContainer"
+    }
+  }
+  
