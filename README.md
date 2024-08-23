@@ -1,4 +1,4 @@
-To-Do Application Code - Azure and OpenFaaS
+To-Do Application Code - Azure and OpenFaaS.
 This repository contains the code for a To-Do application developed as part of an MSc project. The application demonstrates the implementation of a serverless architecture using both Azure Functions and OpenFaaS for the backend, and a simple web-based frontend for user interaction. This project showcases how serverless functions can be deployed across different platforms while maintaining a consistent frontend interface.
 
 Repository Structure
